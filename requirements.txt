@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+sklearn
+tensorflow
+keras
+xgboost
+matplotlib
+seaborn
+jupyter
+spyder
+plotly
+dash
+
+

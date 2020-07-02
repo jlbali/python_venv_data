@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ignore.py
+
 # C extensions
 *.so
 
@@ -127,3 +129,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pickles
+pickles/
+
+# Data
+#data/
+#datasets/
+
+
+nasa_dataset_july_1995/
