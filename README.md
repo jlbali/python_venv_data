@@ -2,14 +2,7 @@
 
 
 
-Doc: https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/
-
 sudo apt-get install python3-dev
-
-(ojo, que aparezca el 3).
-
-Datasets: 
-https://grouplens.org/datasets/movielens/
 
 
 
@@ -18,14 +11,15 @@ https://grouplens.org/datasets/movielens/
 ### Instalación:
 
 - Necesario tener el pip3 y recomendable el python3.6 al menos.
-- Ejecutar ./createEnv.sh
-- Ejecutar ./activate.sh
-- Ejecutar ./install.sh
+- Ejecutar ./venv_create.sh
+- Ejecutar source ./venv_activate.sh
+- Ejecutar ./venv_install.sh
 
 ### Activar el entorno
 
-- Ejecutar ./activate.sh
+- Ejecutar source ./venv_activate.sh
 
+Siempre asegurarse que en el prompt aparezca (env).
 
 
 ### PyCharm
