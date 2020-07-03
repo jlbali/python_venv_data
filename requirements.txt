@@ -10,5 +10,5 @@ jupyter
 spyder
 plotly
 dash
-
+statsmodels
 
